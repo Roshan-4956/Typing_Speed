@@ -1,0 +1,31 @@
+.result{
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+}
+
+.resultWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 50%;
+    margin: auto;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.heading{
+    color: rgb(39, 104, 82);
+    font-size: 5rem;
+}
+
+.noWords{
+   font-size: 3rem;
+}
+
+.accuracy{
+    font-size: 2rem;
+}

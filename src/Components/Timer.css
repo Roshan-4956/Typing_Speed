@@ -1,0 +1,26 @@
+.timer{
+    margin-top: 0.5rem;
+}
+.timerWrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.seconds{
+    font-size: 3rem;
+    color: rgb(39, 104, 82);
+    margin-bottom: 1rem;
+}
+
+.start{
+    margin-top: 0.5rem;
+    width: 50%;
+    border: 2px solid gray;
+    border-radius: 1rem;
+}
+
+.start:hover{
+    background-color: rgb(39, 104, 82);
+    color: white;
+}
